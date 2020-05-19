@@ -1,5 +1,6 @@
 # Scrabble
-Implementacja gry „Scrabble” w postaci programu konsolowego
+Implementacja gry „Scrabble” w postaci programu konsolowego.
+
 Zasady gry są następujące. Gra jest przeznaczona dla 2 osób. Plansza ma wymiary 15x15. Gracz w danym 
 momencie dysponuje siedmioma kafelkami, na których znajdują się litery. 
 W każdym ruchu gracz albo rezygnuje z ruchu, albo umieszcza kafelki na planszy, albo wymienia
